@@ -1,2 +1,2 @@
 import os
-os.system('python test_enc.py')
+os.system('python drow_enc.py')
