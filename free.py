@@ -1,2 +1,2 @@
 import os
-os.system('python drow2_enc.py')
+os.system('python free2_enc.py')
